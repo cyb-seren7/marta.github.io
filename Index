@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Data Portfolio</title>
+</head>
+<body>
+  <h1>Hi, I'm Marta 👋</h1>
+  <p>Welcome to my data analytics portfolio. Here are some of my projects:</p>
+  <ul>
+    <li><a href="https://github.com/cyb-seren7/marta.github.io/insurance-costs-analysis">US Medical Insurance Costs (Regression Analysis)</a></li>
+  </ul>
+</body>
+</html>
