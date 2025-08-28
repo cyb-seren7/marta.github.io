@@ -14,8 +14,8 @@ What sets me apart is that I’ve worked on both sides of the table: leading lar
 
 I love tackling messy datasets, finding patterns, and presenting them in a way that sparks “aha!” moments. Right now, I’m expanding my skills through hands-on projects in Python and machine learning, with the goal of growing, one day, into a data scientist role.
 
-📊 **Specialties**: turning raw data into actionable insights, dashboard storytelling, customer behavior analysis, and cross-team collaboration.
-🌍 Based in Oslo, originally from Barcelona.
+📊 **Specialties**: turning raw data into actionable insights, dashboard storytelling, customer behavior analysis, and cross-team collaboration.  
+🌍 Based in Oslo, originally from Barcelona.  
 ⚡ Fun fact: I grew up around books, studied philosophy and literature, and now apply that same curiosity to data.
 
 ---
