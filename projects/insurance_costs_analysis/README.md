@@ -18,7 +18,7 @@ The dataset contains **1,338 observations** with the following variables:
 ## 🔎 Exploratory Data Analysis
 Example visualization:  
 
-![Scatterplot BMI vs Charges] <img width="1467" height="1528" alt="bmi_vs_charges" src="https://github.com/user-attachments/assets/12a4ca02-ba24-437b-9ccd-73451e9ff884" />
+<img src="images/bmi_vs_charges.png" alt="Scatterplot BMI vs Charges" width="600"/>
 
 
 - Higher **BMI** is associated with higher medical charges.
