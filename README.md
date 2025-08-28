@@ -6,8 +6,17 @@ This repository contains projects I’ve worked on to showcase my skills in data
 ---
 
 ## 🤗 About Me
-Hi, I’m Marta 👋 I have a background in technical and customer support in leading positions, and I slowly transitioned into data analytics.  
-I love finding insights in data, creating dashboards, and telling stories with numbers, and of course, learning!  
+Hi, I’m Marta 👋 
+
+I’m a data analyst with a background in customer success and technical managment and onboarding of B2B customers. I don’t just crunch numbers, I know how to translate insights into actions that teams actually use. Over the last few years, I’ve built dashboards and models in **Power BI, Looker, Excel and Zendesk Explore**, making complex data accessible to executives, product managers, and support teams.
+
+What sets me apart is that I’ve worked on both sides of the table: leading large technical and customer-facing teams and later shifting into analytics. That means I bring not only the technical skills **(SQL, Python, BI tools)** but also the ability to **communicate findings, train teams, and drive adoption**.
+
+I love tackling messy datasets, finding patterns, and presenting them in a way that sparks “aha!” moments. Right now, I’m expanding my skills through hands-on projects in Python and machine learning, with the goal of growing, one day, into a data scientist role.
+
+📊 **Specialties**: turning raw data into actionable insights, dashboard storytelling, customer behavior analysis, and cross-team collaboration.
+🌍 Based in Oslo, originally from Barcelona.
+⚡ Fun fact: I grew up around books, studied philosophy and literature, and now apply that same curiosity to data.
 
 ---
 
