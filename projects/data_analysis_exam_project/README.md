@@ -59,7 +59,16 @@ The dataset contains **1,599 observations** with the following variables:
 
 ---
 
-## 📌 conclusions
+## 📚 Resources
+**Report:** [Project report.pdf](projects/data_analysis_exam_project/da_exam_project_report.pdf)
+ – Analysis report written in accessible language for both technical and non-technical stakeholders
+
+**Presentation:** [Presentation.pdf](projects/data_analysis_exam_project/da_exam_project_presentation.pdf)
+ – Summarizes insights in accessible language and visualilzations for both technical and non-technical stakeholders
+
+---
+
+## 📌 Conclusions
 - Multinomial Logistic Regression proved most effective in classifying wines into quality categories  
 - Chemical composition, especially alcohol, sulphates, and pH, strongly drives perceived quality  
 - Managers can leverage these models to select high-quality wines, ensure customer satisfaction, and optimize costs without depending on subjective tasting
