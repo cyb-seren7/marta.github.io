@@ -22,7 +22,7 @@ I love tackling messy datasets, finding patterns, and presenting them in a way t
 
 ## 📂 Projects in this Portfolio
 
-### 1. Insurance Cost Analysis
+### 1. Insurance Costs Analysis
 - **Description:** Analysis of the "Medical Insurance Costs" dataset.  
 - **Skills Used:** Python, Pandas, Matplotlib, Seaborn  
 - **Highlights:** Investigated relationships between BMI, smoking, and insurance charges.  
