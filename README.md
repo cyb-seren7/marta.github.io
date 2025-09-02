@@ -26,8 +26,8 @@ I love tackling messy datasets, finding patterns, and presenting them in a way t
 - **Description:** Analysis of the "Medical Insurance Costs" dataset.  
 - **Skills Used:** Python, Pandas, Matplotlib, Seaborn  
 - **Highlights:** Investigated relationships between BMI, smoking, and insurance charges.  
-- **Notebook:** [insurance_analysis.ipynb](insurance_analysis.ipynb)  🚧
-- **Write-up:** [Read the full project report](projects/insurance_analysis.md)  🚧
+- **README:** [Introduction to the project](projects/insurance_costs_analysis/README.md)  
+- **Notebook:** [insurance_analysis.ipynb](projects/insurance_costs_analysis/us_medical_insurance_costs_analysis.ipynb)  
 
 ### 2. (Future Project)  
 Coming soon 🚀  
