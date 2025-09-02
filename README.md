@@ -29,7 +29,20 @@ I love tackling messy datasets, finding patterns, and presenting them in a way t
 - **README:** [Introduction to the project](projects/insurance_costs_analysis/README.md)  
 - **Notebook:** [insurance_analysis.ipynb](projects/insurance_costs_analysis/us_medical_insurance_costs_analysis.ipynb)  
 
-### 2. (Future Project)  
+### 2. Rating Red Vinho Verde  
+- **Description:** Predictive analysis of Portuguese red Vinho Verde wines, identifying key chemical properties that drive quality and building models to support restaurant managers in selecting high-quality wines.  
+- **Skills Used:** Excel, Python, Pandas, Scikit-learn, Matplotlib, Seaborn, Logistic Regression  
+- **Highlights:**  
+  - Multinomial logistic regression achieved high accuracy in predicting wine quality.  
+  - Sulphates and Alcohol were the most significant chemical predictors.  
+  - Provided actionable insights for managers on evaluating and selecting wines.
+  - The presentation summarizes insights in a clear, accessible way for both technical and non-technical stakeholders to support data-driven decisions.  
+- **README:** [Introduction to the project](projects/rating_red_vinho_verde/README.md)  
+- **Report:** [Project report.pdf](projects/data_analysis_exam_project/da_exam_project_report.pdf)
+- **Power Point Presentation:** [Presentation.pdf](projects/data_analysis_exam_project/da_exam_project_presentation.pdf)
+ 
+
+### 3. (Future Project)  
 Coming soon 🚀  
 
 ---
@@ -44,7 +57,7 @@ Coming soon 🚀
 
 ## 🌐 Portfolio Website
 You can also view this portfolio as a website here:  
-👉 [work in progress] 🚧
+👉 [Data Analytics Portfolio](https://cyb-seren7.github.io/marta.github.io/) - WIP 🚧
 
 ---
 
