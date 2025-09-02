@@ -1,4 +1,4 @@
-# insurance-costs-analysis
+# Insurance Costs Analysis
 This project explores the "U.S. Medical Insurance dataset" to understand which factors influence individual insurance pricing. The analysis includes data exploration, visualization, and a multiple linear regression model using `statsmodels`.
 
 ---
