@@ -37,7 +37,7 @@ I love tackling messy datasets, finding patterns, and presenting them in a way t
   - Sulphates and Alcohol were the most significant chemical predictors.  
   - Provided actionable insights for managers on evaluating and selecting wines.
   - The presentation summarizes insights in a clear, accessible way for both technical and non-technical stakeholders to support data-driven decisions.  
-- **README:** [Introduction to the project](projects/rating_red_vinho_verde/README.md)  
+- **README:** [Introduction to the project](projects/data_analysis_exam_project/README.md)  
 - **Report:** [Project report.pdf](projects/data_analysis_exam_project/da_exam_project_report.pdf)
 - **Power Point Presentation:** [Presentation.pdf](projects/data_analysis_exam_project/da_exam_project_presentation.pdf)
  
