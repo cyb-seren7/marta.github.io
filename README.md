@@ -31,7 +31,7 @@ I love tackling messy datasets, finding patterns, and presenting them in a way t
 
 ### 2. Rating Red Vinho Verde  
 - **Description:** Predictive analysis of Portuguese red Vinho Verde wines, identifying key chemical properties that drive quality and building models to support restaurant managers in selecting high-quality wines.  
-- **Skills Used:** Excel, Python, Pandas, Scikit-learn, Matplotlib, Seaborn, Logistic Regression  
+- **Skills Used:** Excel, Data visualization, Logistic Regression, Segmented Regression, Polynomial Regression, Multinomial Regression, OvR, Python, PowerPoint, Gimp
 - **Highlights:**  
   - Multinomial logistic regression achieved high accuracy in predicting wine quality.  
   - Sulphates and Alcohol were the most significant chemical predictors.  
