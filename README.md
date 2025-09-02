@@ -49,7 +49,8 @@ Coming soon 🚀
 
 ## 🛠️ Tools & Skills
 - Python (Pandas, Matplotlib, Seaborn)  
-- SQL (MySQL)  
+- SQL (MySQL)
+- Excel (Power Query, Power Pivot, advanced formulas, regression & statistical analysis, forecasting, interactive dashboards)
 - Data Visualization (Power BI, Looker, Excel, Zendesk Explore)  
 - Statistical Analysis & Data Cleaning  
 
