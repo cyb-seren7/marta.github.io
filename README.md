@@ -27,7 +27,7 @@ I love tackling messy datasets, finding patterns, and presenting them in a way t
 - **Skills Used:** Python, Pandas, Matplotlib, Seaborn  
 - **Highlights:** Investigated relationships between BMI, smoking, and insurance charges.  
 - **README:** [Introduction to the project](projects/insurance_costs_analysis/README.md)  
-- **Notebook:** [insurance_analysis.ipynb](projects/insurance_costs_analysis/us_medical_insurance_costs_analysis.ipynb)  
+- **Notebook:** [insurance_analysis.ipynb](projects/insurance_costs_analysis/medical_insurance_costs_analysis.html)  
 
 ### 2. Rating Red Vinho Verde  
 - **Description:** Predictive analysis of Portuguese red Vinho Verde wines, identifying key chemical properties that drive quality and building models to support restaurant managers in selecting high-quality wines.  
