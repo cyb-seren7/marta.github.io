@@ -23,7 +23,7 @@ The dataset contains NBA game-level data with the following key variables:
 ## 🔎 Exploratory Data Analysis
 Example visualization:  
 
-<img src="images/bmi_vs_charges.png" alt="Scatterplot BMI vs Charges" width="600"/>
+<img src="images/2010_compared_points.png" alt="Scatterplot BMI vs Charges" width="600"/>
 
 - **Knicks vs Nets (2010 vs 2014):** Histograms and boxplots compare scoring distributions across seasons.
 - **Home vs Away:** A chi-square test was used to check if game results are independent of location.
