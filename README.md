@@ -27,7 +27,7 @@ I love tackling messy datasets, finding patterns, and presenting them in a way t
 - **Skills Used:** Python, Pandas, Matplotlib, Seaborn  
 - **Highlights:** Investigated relationships between BMI, smoking, and insurance charges.  
 - **README:** [Introduction to the project](projects/insurance_costs_analysis/README.md)  
-- **Notebook:** [insurance_analysis.ipynb](projects/insurance_costs_analysis/medical_insurance_costs_analysis.html)  
+- **Notebook:** [insurance_analysis.html](projects/insurance_costs_analysis/medical_insurance_costs_analysis.html)  
 
 ### 2. Rating Red Vinho Verde  
 - **Description:** Predictive analysis of Portuguese red Vinho Verde wines, identifying key chemical properties that drive quality and building models to support restaurant managers in selecting high-quality wines.  
@@ -40,9 +40,15 @@ I love tackling messy datasets, finding patterns, and presenting them in a way t
 - **README:** [Introduction to the project](projects/data_analysis_exam_project/README.md)  
 - **Report:** [Project report.pdf](projects/data_analysis_exam_project/da_exam_project_report.pdf)
 - **Power Point Presentation:** [Presentation.pdf](projects/data_analysis_exam_project/da_exam_project_presentation.pdf)
- 
 
-### 3. (Future Project)  
+### 3. NBA Trends
+- **Description:** Analysis of the 'NBA games" dataset.
+- **Skills Used:** Python, Pandas, Numpy, Matplotlib, Seaborn, Scipy
+- **Highlights:** Explore NBA game data to compare the performance of the New York Knicks and the Brooklyn Nets in the 2010 and 2014 seasons.
+- **README:** [Introduction to the project](projects/nba_trends/README.md)
+- **Notebook:** [nba_thrends.html](projects/nba_trends/nba_trends.html)
+
+### 4. (Future Project)    
 Coming soon 🚀  
 
 ---
