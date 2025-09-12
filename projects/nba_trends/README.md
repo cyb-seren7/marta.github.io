@@ -25,16 +25,16 @@ Example visualization:
 
 <img src="images/bmi_vs_charges.png" alt="Scatterplot BMI vs Charges" width="600"/>
 
-- `Knicks vs Nets (2010 vs 2014):` Histograms and boxplots compare scoring distributions across seasons.
-- `Home vs Away:` A chi-square test was used to check if game results are independent of location.
-- `Forecast vs Outcome:` Scatterplots and correlations were used to evaluate how well FiveThirtyEight’s forecasts aligned with actual point differences.
+- **Knicks vs Nets (2010 vs 2014):** Histograms and boxplots compare scoring distributions across seasons.
+- **Home vs Away:** A chi-square test was used to check if game results are independent of location.
+- **Forecast vs Outcome:** Scatterplots and correlations were used to evaluate how well FiveThirtyEight’s forecasts aligned with actual point differences.
 
 ---
 
 ## 📈 Statistical Analysis
-- `Chi-Square Test:` Tested independence between `game_result` and `game_location`.
-- `Correlation:` Pearson correlation between `forecast` and `point_diff` shows forecasts are positively correlated with actual results.
-- `Covariance Matrix:` Quantified joint variability of forecasts and point differences.
+- **Chi-Square Test:** Tested independence between `game_result` and `game_location`.
+- **Correlation:** Pearson correlation between `forecast` and `point_diff` shows forecasts are positively correlated with actual results.
+- **Covariance Matrix:** Quantified joint variability of forecasts and point differences.
 
 ---
 
