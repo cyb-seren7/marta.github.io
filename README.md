@@ -1,14 +1,14 @@
 # Data Analytics Portfolio
 
 Welcome to my data analytics portfolio!  
-This repository contains projects I’ve worked on to showcase my skills in data analysis, visualization, and storytelling amoung others.  
+This repository contains projects I’ve worked on to showcase my skills in data analysis, visualization, and storytelling among others.  
 
 ---
 
 ## 🤗 About Me
 Hi, I’m Marta 👋 
 
-I’m a data analyst with a background in customer success and technical managment and onboarding of B2B customers. I don’t just crunch numbers, I know how to translate insights into actions that teams actually use. Over the last few years, I’ve built dashboards and models in **Power BI, Looker, Excel and Zendesk Explore**, making complex data accessible to executives, product managers, and support teams.
+I’m a data analyst with a background in customer success and technical management and onboarding of B2B customers. I don’t just crunch numbers, I know how to translate insights into actions that teams actually use. Over the last few years, I’ve built dashboards and models in **Power BI, Looker, Excel and Zendesk Explore**, making complex data accessible to executives, product managers, and support teams.
 
 What sets me apart is that I’ve worked on both sides of the table: leading large technical and customer-facing teams and later shifting into analytics. That means I bring not only the technical skills **(SQL, Python, BI tools)** but also the ability to **communicate findings, train teams, and drive adoption**.
 
@@ -39,12 +39,12 @@ I love tackling messy datasets, finding patterns, and presenting them in a way t
   - The presentation summarizes insights in a clear, accessible way for both technical and non-technical stakeholders to support data-driven decisions.  
 - **README:** [Introduction to the project](projects/data_analysis_exam_project/README.md)  
 - **Report:** [Project report.pdf](projects/data_analysis_exam_project/da_exam_project_report.pdf)
-- **Power Point Presentation:** [Presentation.pdf](projects/data_analysis_exam_project/da_exam_project_presentation.pdf)
+- **PowerPoint Presentation:** [Presentation.pdf](projects/data_analysis_exam_project/da_exam_project_presentation.pdf)
 
 ### 3. NBA Trends
-- **Description:** Analysis of the 'NBA games" dataset.
+- **Description:** Analysis of the "NBA Games" dataset.
 - **Skills Used:** Python, Pandas, Numpy, Matplotlib, Seaborn, Scipy
-- **Highlights:** Explore NBA game data to compare the performance of the New York Knicks and the Brooklyn Nets in the 2010 and 2014 seasons.
+- **Highlights:** Explore NBA games data to compare the performance of the New York Knicks and the Brooklyn Nets in the 2010 and 2014 seasons.
 - **README:** [Introduction to the project](projects/nba_trends/README.md)
 - **Notebook:** [View full analysis](projects/nba_trends/nba_trends.html)
 
