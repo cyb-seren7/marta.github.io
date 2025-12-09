@@ -22,12 +22,12 @@ I love tackling messy datasets, finding patterns, and presenting them in a way t
 
 ## 📂 Projects in this Portfolio
 
-### 1. Insurance Costs Analysis
-- **Description:** Analysis of the "Medical Insurance Costs" dataset.  
-- **Skills Used:** Python, Pandas, Matplotlib, Seaborn  
-- **Highlights:** Investigated relationships between BMI, smoking, and insurance charges.  
-- **README:** [Introduction to the project](projects/insurance_costs_analysis/README.md)  
-- **Notebook:** [insurance_analysis.html](projects/insurance_costs_analysis/medical_insurance_costs_analysis.html)  
+### 1. Life Expectancy & GDP
+- **Description:** Exploratory analysis of the relationship between GDP and life expectancy across six countries (2000–2015) using World Bank / WHO data.
+- **Skills Used:** Python, Pandas, Seaborn, Matplotlib, SciPy
+- **Highlights:** Revealed strong country-level correlations hidden by weak global trends; applied normalization to compare relative GDP growth patterns.
+- **README:** [Introduction to the project](projects/life_expectancy_and_gdp/README.md)
+- **Notebook:** [nba_thrends.html](projects/life_expectancy_and_gdp/life_expectancy_and_GDP_analysis.html)
 
 ### 2. Rating Red Vinho Verde  
 - **Description:** Predictive analysis of Portuguese red Vinho Verde wines, identifying key chemical properties that drive quality and building models to support restaurant managers in selecting high-quality wines.  
@@ -48,7 +48,14 @@ I love tackling messy datasets, finding patterns, and presenting them in a way t
 - **README:** [Introduction to the project](projects/nba_trends/README.md)
 - **Notebook:** [nba_thrends.html](projects/nba_trends/nba_trends.html)
 
-### 4. (Future Project)    
+### 4. Insurance Costs Analysis
+- **Description:** Analysis of the "Medical Insurance Costs" dataset.  
+- **Skills Used:** Python, Pandas, Matplotlib, Seaborn  
+- **Highlights:** Investigated relationships between BMI, smoking, and insurance charges.  
+- **README:** [Introduction to the project](projects/insurance_costs_analysis/README.md)  
+- **Notebook:** [insurance_analysis.html](projects/insurance_costs_analysis/medical_insurance_costs_analysis.html)  
+
+### 5. (Future Project)    
 Coming soon 🚀  
 
 ---
