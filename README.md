@@ -70,7 +70,7 @@ Coming soon 🚀
 ---
 
 ## 🌐 Portfolio Website
-You can also view this portfolio as a website here:  
+If you are in my Github site, you can also view this portfolio as a website here:  
 👉 [Data Analytics Portfolio](https://cyb-seren7.github.io/marta.github.io/) - WIP 🚧
 
 ---
