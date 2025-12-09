@@ -27,7 +27,7 @@ I love tackling messy datasets, finding patterns, and presenting them in a way t
 - **Skills Used:** Python, Pandas, Seaborn, Matplotlib, SciPy
 - **Highlights:** Revealed strong country-level correlations hidden by weak global trends; applied normalization to compare relative GDP growth patterns.
 - **README:** [Introduction to the project](projects/life_expectancy_and_gdp/README.md)
-- **Notebook:** [nba_thrends.html](projects/life_expectancy_and_gdp/life_expectancy_and_GDP_analysis.html)
+- **Notebook:** [View full analysis](projects/life_expectancy_and_gdp/life_expectancy_and_GDP_analysis.html)
 
 ### 2. Rating Red Vinho Verde  
 - **Description:** Predictive analysis of Portuguese red Vinho Verde wines, identifying key chemical properties that drive quality and building models to support restaurant managers in selecting high-quality wines.  
@@ -46,14 +46,14 @@ I love tackling messy datasets, finding patterns, and presenting them in a way t
 - **Skills Used:** Python, Pandas, Numpy, Matplotlib, Seaborn, Scipy
 - **Highlights:** Explore NBA game data to compare the performance of the New York Knicks and the Brooklyn Nets in the 2010 and 2014 seasons.
 - **README:** [Introduction to the project](projects/nba_trends/README.md)
-- **Notebook:** [nba_thrends.html](projects/nba_trends/nba_trends.html)
+- **Notebook:** [View full analysis](projects/nba_trends/nba_trends.html)
 
 ### 4. Insurance Costs Analysis
 - **Description:** Analysis of the "Medical Insurance Costs" dataset.  
 - **Skills Used:** Python, Pandas, Matplotlib, Seaborn  
 - **Highlights:** Investigated relationships between BMI, smoking, and insurance charges.  
 - **README:** [Introduction to the project](projects/insurance_costs_analysis/README.md)  
-- **Notebook:** [insurance_analysis.html](projects/insurance_costs_analysis/medical_insurance_costs_analysis.html)  
+- **Notebook:** [View full analysis](projects/insurance_costs_analysis/medical_insurance_costs_analysis.html)  
 
 ### 5. (Future Project)    
 Coming soon 🚀  
