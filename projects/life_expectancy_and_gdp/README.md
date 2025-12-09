@@ -24,7 +24,7 @@ Variables:
 ## 🔎 Exploratory Data Analysis
 Example visualization:  
 
-<img src="projects/life_expectancy_and_GDP_analysis/images/scatter_life_gdp_all_countries.png" alt="Scatterplot of life expectancy and GDP" width="600"/>
+<img src="images/scatter_life_gdp_all_countries.png" alt="Scatterplot of life expectancy and GDP" width="600"/>
 
 **Key observations:**
 - Globally, GDP and life expectancy show only a moderate positive correlation.
@@ -60,7 +60,7 @@ Economic growth within countries is strongly linked to improvements in life expe
 
 To compare growth patterns across economies of very different scales, GDP values were normalized per country using z-score standardization.
 
-<img src="projects/life_expectancy_and_GDP_analysis/images/normalized_gdp_trends.png" alt="Normalized GDP trends" width="600"/>
+<img src="images/normalized_gdp_trends.png" alt="Normalized GDP trends" width="600"/>
 
 **Key observations:**
 - China shows the strongest relative growth over the entire period.
