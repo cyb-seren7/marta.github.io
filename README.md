@@ -5,7 +5,7 @@ This repository contains projects I’ve worked on to showcase my skills in data
 
 ---
 
-## 🤗 About Me
+## About Me
 Hi, I’m Marta 👋 
 
 I’m a data analyst with a background in customer success and technical management and onboarding of B2B customers. I don’t just crunch numbers, I know how to translate insights into actions that teams actually use. Over the last few years, I’ve built dashboards and models in **Power BI, Looker, Excel and Zendesk Explore**, making complex data accessible to executives, product managers, and support teams.
