@@ -1,7 +1,8 @@
 # Data Analytics Portfolio
 
-Welcome to my data analytics portfolio!  
-This repository contains projects I’ve worked on to showcase my skills in data analysis, visualization, and storytelling among others.  
+Welcome! This repository contains selected data analytics projects showcasing my work in **data analysis, visualization, and stakeholder-focused storytelling**.
+
+📄 **[Download my Data Analyst CV (PDF)](./cv/marta_caballero_cv.pdf)**   
 
 ---
 
@@ -17,6 +18,13 @@ I love tackling messy datasets, finding patterns, and presenting them in a way t
 📊 **Specialties**: turning raw data into actionable insights, dashboard storytelling, customer behavior analysis, and cross-team collaboration.  
 🌍 Based in Oslo, originally from Barcelona.  
 ⚡ Fun fact: I grew up around books, studied philosophy and literature, and now apply that same curiosity to data.
+
+---
+
+### 🔗 Quick navigation
+- [Projects](#-projects-in-this-portfolio)
+- [Tools & Skills](#-tools--skills)
+- [Portfolio Website](#-portfolio-website)
 
 ---
 
@@ -60,7 +68,7 @@ Coming soon 🚀
 
 ---
 
-## 🛠️ Tools & Skills
+## 🪛 Tools & Skills
 - Python (Pandas, Matplotlib, Seaborn, Scipy, Numpy)  
 - SQL (MySQL)
 - Excel (Power Query, Power Pivot, advanced formulas, regression & statistical analysis, forecasting, interactive dashboards)
