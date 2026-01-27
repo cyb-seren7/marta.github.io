@@ -24,7 +24,6 @@ I love tackling messy datasets, finding patterns, and presenting them in a way t
 ### 🔗 Quick navigation
 - [Projects](#-projects-in-this-portfolio)
 - [Tools & Skills](#-tools--skills)
-- [Portfolio Website](#-portfolio-website)
 
 ---
 
@@ -79,7 +78,7 @@ Coming soon 🚀
 
 ## 🌐 Portfolio Website
 If you are in my Github site, you can also view this portfolio as a website here:  
-👉 [Data Analytics Portfolio](https://cyb-seren7.github.io/marta.github.io/) - WIP 🚧
+👉 [Data Analytics Portfolio](https://cyb-seren7.github.io/marta.github.io/)
 
 ---
 
