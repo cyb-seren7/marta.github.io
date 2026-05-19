@@ -36,7 +36,7 @@ I love tackling messy datasets, finding patterns, and presenting them in a way t
 - **README:** [Introduction to the project](projects/life_expectancy_and_gdp/README.md)
 - **Notebook:** [View full analysis](projects/life_expectancy_and_gdp/life_expectancy_and_GDP_analysis.html)
 
-### 2. Rating Red Vinho Verde  
+### 3. Rating Red Vinho Verde  
 - **Description:** Predictive analysis of Portuguese red Vinho Verde wines, identifying key chemical properties that drive quality and building models to support restaurant managers in selecting high-quality wines.  
 - **Skills Used:** Excel, Data visualization, Logistic Regression, Segmented Regression, Polynomial Regression, Multinomial Regression, OvR, Python, PowerPoint, Gimp
 - **Highlights:**  
@@ -48,14 +48,23 @@ I love tackling messy datasets, finding patterns, and presenting them in a way t
 - **Report:** [Project report.pdf](projects/data_analysis_exam_project/da_exam_project_report.pdf)
 - **PowerPoint Presentation:** [Presentation.pdf](projects/data_analysis_exam_project/da_exam_project_presentation.pdf)
 
-### 3. NBA Trends
+### 2. Kahoot! Subscription Data Analysis
+- **Description:** Business-oriented analysis of subscription and customer data created as part of a Data Analyst case task for Kahoot!, focusing on churn, retention, plan segmentation, and customer behavior.  
+- **Skills Used:** Excel, Power Pivot, DAX, Python, Pandas, NumPy, Matplotlib, SciPy  
+- **Highlights:** Built churn and retention KPIs using DAX and pivot workflows; applied regression and ANOVA analysis to explore customer behavior across subscription tiers; combined Excel-based business analysis with Python data validation and preprocessing workflows.  
+- **README:** [Introduction to the project](projects/kahoot!/README.md) 
+- **Notebook:** [View full analysis](projects/kahoot!/subscription_data_analysis.html)  
+- **Excel Analysis:** [View workbook](projects/kahoot!/plans_subscription_data.xlsx)
+- **PowerPoint Presentation:** [Presentation.pdf](projects/kahoot!/kahoot!_presentation.pdf)
+
+### 4. NBA Trends
 - **Description:** Analysis of the "NBA Games" dataset.
 - **Skills Used:** Python, Pandas, Numpy, Matplotlib, Seaborn, Scipy
 - **Highlights:** Explore NBA games data to compare the performance of the New York Knicks and the Brooklyn Nets in the 2010 and 2014 seasons.
 - **README:** [Introduction to the project](projects/nba_trends/README.md)
 - **Notebook:** [View full analysis](projects/nba_trends/nba_trends.html)
 
-### 4. Insurance Costs Analysis
+### 5. Insurance Costs Analysis
 - **Description:** Analysis of the "Medical Insurance Costs" dataset.  
 - **Skills Used:** Python, Pandas, Matplotlib, Seaborn  
 - **Highlights:** Investigated relationships between BMI, smoking, and insurance charges.  
