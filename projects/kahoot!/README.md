@@ -93,7 +93,7 @@ Python was used to support:
 
 ## Example Visualization of Customer Renewal Rate by Plan Tier
 
-<img src="images/customer_renewal_rate_per_tier.png" alt="Customer Renewal Rate by Plan Tier" width="600"/>
+<img src="images/customer_renewal_rate_per_tier_plan.png" alt="Customer Renewal Rate by Plan Tier" width="600"/>
 
 This visualization compares renewal behavior across subscription tiers and highlights differences in customer retention patterns between lower-tier and premium plans.
 
