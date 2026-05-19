@@ -72,7 +72,7 @@ I love tackling messy datasets, finding patterns, and presenting them in a way t
 - **Notebook:** [View full analysis](projects/insurance_costs_analysis/medical_insurance_costs_analysis.html)  
 
 ### 5. (Future Project)    
-Coming soon 🚀  
+Coming soon...
 
 ---
 
