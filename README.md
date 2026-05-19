@@ -95,6 +95,3 @@ If you are in my Github site, you can also view this portfolio as a website here
 - 📧 Email: 1989mcp@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/martacaballero)  
 - 🐙 [GitHub](https://github.com/cyb-seren7)
-
-### Test project
-- **Blabla:** test test 123
