@@ -91,6 +91,12 @@ Python was used to support:
 - Different churn definitions produced noticeably different interpretations of customer loss.
 - Standardizing currencies and plan naming significantly improved consistency across KPI reporting.
 
+## Example Visualization of Customer Renewal Rate by Plan Tier
+
+<img src="images/customer_renewal_rate_per_tier.png" alt="Customer Renewal Rate by Plan Tier" width="600"/>
+
+This visualization compares renewal behavior across subscription tiers and highlights differences in customer retention patterns between lower-tier and premium plans.
+
 ---
 
 ## 🛠 Tools & Libraries
